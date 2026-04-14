@@ -1,5 +1,4 @@
-CREATE DATABASE IF NOT EXISTS parc_informatique;
-USE parc_informatique;
+
 
 CREATE TABLE categorie (
     id INT AUTO_INCREMENT PRIMARY KEY,
